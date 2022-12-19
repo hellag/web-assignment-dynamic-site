@@ -5,35 +5,40 @@
         "winnerParticipant":"Ομάδα 1",
         "loosingParticipant":"Ομάδα 3",
         "winnerScore":3,
-        "losingScore":1
+        "losingScore":1,
+        "dateMatch":"1/1/2020"
     },
     {
         "id":2,
         "winnerParticipant":"Ομάδα 2",
         "loosingParticipant":"Ομάδα 4",
         "winnerScore":3,
-        "losingScore":1
+        "losingScore":1,
+        "dateMatch":"1/1/2020"
     },
     {
         "id":3,
         "winnerParticipant":"Ομάδα 5",
         "loosingParticipant":"Ομάδα 6",
         "winnerScore":3,
-        "losingScore":1
+        "losingScore":1,
+        "dateMatch":"1/1/2020"
     },
     {
         "id":4,
         "winnerParticipant":"Ομάδα 7",
         "loosingParticipant":"Ομάδα 8",
         "winnerScore":3,
-        "losingScore":1
+        "losingScore":2,
+        "dateMatch":"1/1/2020"
     },
     {
         "id":5,
         "winnerParticipant":"Ομάδα 9",
         "loosingParticipant":"Ομάδα 10",
-        "winnerScore":3,
-        "losingScore":1
+        "winnerScore":2,
+        "losingScore":4,
+        "dateMatch":"1/1/2020"
     }
     ]
 }
